@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # FLUX
 by Black Forest Labs: https://blackforestlabs.ai
 
@@ -166,3 +167,7 @@ $ python -m flux.api --prompt="A beautiful beach" save outputs/api
 # open the image directly
 $ python -m flux.api --prompt="A beautiful beach" image show
 ```
+=======
+# flux
+image generation
+>>>>>>> bdee26a9a179c748764d13dd9240fe976e523345
